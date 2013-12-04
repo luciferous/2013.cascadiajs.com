@@ -39,6 +39,9 @@
 
 * Neuman Vong  
   http://2013.cascadiajs.com/speakers/neuman-vong
+  https://gist.github.com/luciferous/7493141
+  https://medium.com/on-coding/24c1dec8330c
+  https://docs.google.com/presentation/d/1v0YZeffzYGyIPz4_byDek3syFTafhYvlTyZOBH-okuw/pub
 
 ### Graphics.js
 
